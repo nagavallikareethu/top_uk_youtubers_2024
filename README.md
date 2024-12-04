@@ -1,14 +1,13 @@
-# Data Portfolio
+# Data Portfolio: Excel to Power BI
 
 
-This is my portfolio website!
-
-
-🤔💭
+![kaggle_to_powerbi](https://github.com/user-attachments/assets/1c8a6f73-903a-4249-94d1-a38e8d63b11e)
 
 
 
-# Header
+
+
+# Table of Content
 
 
 
