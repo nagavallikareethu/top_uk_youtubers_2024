@@ -8,11 +8,11 @@ This is my portfolio website!
 
 
 
-#Header
+# Header
 
 
 
-##subheader
+## subheader
 
 
 
